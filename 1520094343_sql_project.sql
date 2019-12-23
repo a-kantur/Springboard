@@ -118,7 +118,6 @@ SELECT CONCAT(members.firstname,' ',members.surname) as 'member name',
 WHERE bookings.starttime LIKE '2012-09-14%'
       AND (CASE WHEN members.memid = 0 THEN bookings.slots*facilities.guestcost
             ELSE bookings.slots*facilities.membercost END) >30
-GROUP BY 1, 2
 ORDER BY 3 DESC
 
 /* Q9: This time, produce the same result as in Q8, but using a subquery. */
@@ -139,7 +138,6 @@ SELECT sub.member_name,
     WHERE bookings.starttime LIKE '2012-09-14%') sub
 
 WHERE cost>30
-GROUP BY 1, 2
 ORDER BY 3 DESC
 
 /* Q10: Produce a list of facilities with a total revenue less than 1000.
