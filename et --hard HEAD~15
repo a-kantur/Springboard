@@ -1,0 +1,163 @@
+[33mcommit ea8af6019d3a09c08821afa8c11ea5e30d97e07c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: a-kantur <48080754+a-kantur@users.noreply.github.com>
+Date:   Tue Jan 14 20:28:31 2020 -0800
+
+    Revert "Adding Capstone Project 1 folder"
+    
+    This reverts commit 81d106bd738ddecb9122d9029a576111b0326e96.
+
+[33mcommit 8ac1bc71da3b43185811893907cc764cc6594f12[m
+Author: a-kantur <48080754+a-kantur@users.noreply.github.com>
+Date:   Tue Jan 14 20:28:08 2020 -0800
+
+    Revert "Create test.md"
+    
+    This reverts commit 69ebecf8231799e0dc4ca9e33a6efc925e865e91.
+
+[33mcommit b827fe112cec284f06ecb03279a09ebb19a29f8f[m
+Author: a-kantur <48080754+a-kantur@users.noreply.github.com>
+Date:   Tue Jan 14 20:27:56 2020 -0800
+
+    Revert "Adding Capstone 1 folder"
+    
+    This reverts commit 51b491a81d1a7452fdeb1eb0c24107c064cd78f9.
+
+[33mcommit a75de259bfc03a4d611bf048c93cef6c223a50cd[m
+Author: a-kantur <48080754+a-kantur@users.noreply.github.com>
+Date:   Tue Jan 14 20:11:24 2020 -0800
+
+    Revert "Adding Capstone Project 1 folder"
+    
+    This reverts commit 81d106bd738ddecb9122d9029a576111b0326e96.
+
+[33mcommit 4513013f1e9d16cfb47eabf5e38fbb7a9c4fa040[m
+Author: a-kantur <48080754+a-kantur@users.noreply.github.com>
+Date:   Tue Jan 14 20:10:06 2020 -0800
+
+    Revert "Delete test.md"
+    
+    This reverts commit eb699aeb7f1e2aa0b463b920c66d9db0ef6147c3.
+
+[33mcommit ddace07c1d76f376aef515a1ebf7640ac772bd6d[m
+Author: a-kantur <48080754+a-kantur@users.noreply.github.com>
+Date:   Tue Jan 14 18:59:46 2020 -0800
+
+    Revert "Inferential Statistics Project 2"
+    
+    This reverts commit 3fa6108bc3f0a160ced03ca02e7b0cb348ffdba2.
+
+[33mcommit 3fa6108bc3f0a160ced03ca02e7b0cb348ffdba2[m
+Author: a-kantur <48080754+a-kantur@users.noreply.github.com>
+Date:   Tue Jan 14 18:40:12 2020 -0800
+
+    Inferential Statistics Project 2
+
+[33mcommit 8f97e59cb92ac62c624100a9b55452d5e3c79ec4[m
+Author: a-kantur <48080754+a-kantur@users.noreply.github.com>
+Date:   Sun Jan 12 10:49:07 2020 -0800
+
+    Removing files
+
+[33mcommit c9d5b1f08627cf0dd70eff76350289537c89f457[m
+Author: a-kantur <48080754+a-kantur@users.noreply.github.com>
+Date:   Sun Jan 12 10:22:18 2020 -0800
+
+    removing files
+
+[33mcommit a182e65ea9c4562b5c6ad56b4cddeba8157d9306[m
+Author: a-kantur <48080754+a-kantur@users.noreply.github.com>
+Date:   Sat Jan 11 23:24:44 2020 -0800
+
+    Submitting Frequentist stats Project 1A
+
+[33mcommit 2d386db82f01adaf3d023728e35fe6004de383c3[m
+Merge: 83ca9e2 e66b1c3
+Author: a-kantur <48080754+a-kantur@users.noreply.github.com>
+Date:   Mon Dec 30 15:28:52 2019 -0800
+
+    Merge branch 'master' of https://github.com/a-kantur/Springboard
+
+[33mcommit e66b1c31985bc92aa9fdd5201c47380fcb5ec1d4[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: a-kantur <48080754+a-kantur@users.noreply.github.com>
+Date:   Mon Dec 30 15:28:36 2019 -0800
+
+    Add files via upload
+
+[33mcommit 83ca9e2b925240ffab821bcd4668580ad867fcd2[m
+Merge: ef95b1b e973021
+Author: a-kantur <48080754+a-kantur@users.noreply.github.com>
+Date:   Mon Dec 30 14:54:20 2019 -0800
+
+    Merge branch 'master' of https://github.com/a-kantur/Springboard
+
+[33mcommit ef95b1bdf0544721bfe42c0747f137fe6d889f1d[m
+Author: a-kantur <48080754+a-kantur@users.noreply.github.com>
+Date:   Mon Dec 30 14:53:37 2019 -0800
+
+    Data Wrangling file upload
+
+[33mcommit e9730217550982c2d51c49ec71cd1eb2e8a97c37[m
+Author: a-kantur <48080754+a-kantur@users.noreply.github.com>
+Date:   Mon Dec 30 14:50:13 2019 -0800
+
+    Create test.md
+
+[33mcommit eb699aeb7f1e2aa0b463b920c66d9db0ef6147c3[m
+Author: a-kantur <48080754+a-kantur@users.noreply.github.com>
+Date:   Mon Dec 30 14:49:33 2019 -0800
+
+    Delete test.md
+
+[33mcommit 69ebecf8231799e0dc4ca9e33a6efc925e865e91[m
+Author: a-kantur <48080754+a-kantur@users.noreply.github.com>
+Date:   Mon Dec 30 14:48:58 2019 -0800
+
+    Create test.md
+
+[33mcommit 81d106bd738ddecb9122d9029a576111b0326e96[m
+Author: a-kantur <48080754+a-kantur@users.noreply.github.com>
+Date:   Mon Dec 30 00:09:16 2019 -0800
+
+    Adding Capstone Project 1 folder
+
+[33mcommit 51b491a81d1a7452fdeb1eb0c24107c064cd78f9[m
+Author: a-kantur <48080754+a-kantur@users.noreply.github.com>
+Date:   Sun Dec 29 23:53:34 2019 -0800
+
+    Adding Capstone 1 folder
+
+[33mcommit 9a1e79fa5e6a1717c85356f0559cca20a02c3c91[m
+Author: a-kantur <48080754+a-kantur@users.noreply.github.com>
+Date:   Mon Dec 23 13:52:38 2019 -0800
+
+    Fixed questions 8 and 9
+
+[33mcommit 3f26969c76a4e84625fed47e9942e1fbeec07955[m
+Author: a-kantur <48080754+a-kantur@users.noreply.github.com>
+Date:   Wed Dec 11 23:41:06 2019 -0800
+
+    API Project submission
+
+[33mcommit f539f31e9451754b9f4d1853b5aefea5779b229d[m
+Author: a-kantur <48080754+a-kantur@users.noreply.github.com>
+Date:   Sun Dec 8 18:46:53 2019 -0800
+
+    SQL Project Submission
+
+[33mcommit df82dd23078163102a4f35cc7ae5e8e83b09d599[m
+Author: a-kantur <48080754+a-kantur@users.noreply.github.com>
+Date:   Thu Nov 28 10:58:23 2019 -0800
+
+    JSON project submission
+
+[33mcommit c46f8d2e88dd28ea3bf68594b4d8b067c3364c05[m
+Author: a-kantur <48080754+a-kantur@users.noreply.github.com>
+Date:   Mon Oct 21 10:00:42 2019 -0700
+
+    first commit
+
+[33mcommit 5bfb01932e8fc58ef1d920a92ba869cfa1b317a7[m
+Author: a-kantur <48080754+a-kantur@users.noreply.github.com>
+Date:   Mon Oct 21 09:41:26 2019 -0700
+
+    Initial commit
