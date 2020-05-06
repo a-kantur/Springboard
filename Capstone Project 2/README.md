@@ -1,15 +1,13 @@
-# Capstone Project 1: What Do Successful Recipes Have in Common?
-This is directory for the Capstone projects 1 for Springboard Data Science Bootcamp. To follow along with the project, you can read the information in the directory in the following order:
+# Capstone Project 2: Twitter Users Analysis in the Times of COVID
+This is directory for the Capstone Project 2 for Springboard Data Science Bootcamp. To follow along with the project, you can read the information in the directory in the following order:
 
+0. Collecting the Data.ipynb
 1. Data Wrangling.ipynb
-2. Data Wrangling for Capstone 1.pdf
-3. EDA and Data Story.ipynb
-4. Statistical Data Analysis.ipynb
-5. Statistical Analysis for Capstone 1.docx
-6. Capstone 1 Milestone Report.pdf
-7. In-Depth Analysis.ipynb
-8. Clustering.ipynb
-9. Capstone 1 Report.pdf
-10. Capstone 1 Slides
+2. EDA and Data Story.ipynb
+3.1. ML - Topic Modeling.ipynb
+3.2. ML - Topic Classification and Twitter Sentiment Analysis.ipynb
+3.3. ML - Predicting User Type.ipynb
+Capstone 2 Project Report.pdf
+Capstone 2 Slides
 
 
