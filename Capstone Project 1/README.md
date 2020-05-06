@@ -10,6 +10,6 @@ This is directory for the Capstone projects 1 for Springboard Data Science Bootc
 7. In-Depth Analysis.ipynb
 8. Clustering.ipynb
 9. Capstone 1 Report.pdf
-10. Capstone 1 Slides.pptx
+10. Capstone 1 Slides
 
 
